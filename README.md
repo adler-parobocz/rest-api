@@ -16,7 +16,7 @@ Many desktop publishing packages and web page editors now use Lorem Ipsum as the
 
 Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text
 
-## Security Vulnerabilities
+## Outras informações
 
 Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text
 
