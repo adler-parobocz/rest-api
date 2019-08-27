@@ -1,7 +1,7 @@
-#<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+##<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
-REST-API EM LARAVEL, DE FORMA SIMPLES E DESCOMPLICADA
+#REST-API EM LARAVEL, DE FORMA SIMPLES E DESCOMPLICADA
 </p>
 
 ## About Laravel
